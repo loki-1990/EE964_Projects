@@ -1,0 +1,44 @@
+# --------------------
+# Administrative files
+# --------------------
+Professor_confirmation.pdf
+
+# --------------------
+# Research papers
+# --------------------
+Research_Papers/
+papers/
+
+# --------------------
+# Dataset (large files)
+# --------------------
+dataset/
+
+# --------------------
+# Experiment outputs
+# --------------------
+results/
+
+# --------------------
+# Model checkpoints
+# --------------------
+*.pt
+*.pth
+*.ckpt
+*.npy
+
+# --------------------
+# Python / system junk
+# --------------------
+__pycache__/
+*.pyc
+.cache/
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+
+# --------------------
+# Local helper files
+# --------------------
+tree.txt
+ee964_task4_code.zip

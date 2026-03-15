@@ -1,0 +1,15 @@
+{
+  "seed": 1990,
+  "train_pairs": 464,
+  "val_pairs": 58,
+  "test_pairs": 59,
+  "train_unique_desc": 464,
+  "val_unique_desc": 58,
+  "test_unique_desc": 59,
+  "train_unique_words": 457,
+  "val_unique_words": 58,
+  "test_unique_words": 59,
+  "desc_overlap_train_val": 0,
+  "desc_overlap_train_test": 0,
+  "desc_overlap_val_test": 0
+}
